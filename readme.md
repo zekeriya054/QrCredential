@@ -10,7 +10,7 @@ programı yazan kişide olmadığını biliniz.
 <p> 4. Oturumu kapatıp yeniden açın</p>
 <p> 5. <b> etkilit</b> uyuglamasını telefonunuzda açın,Oturumu Aç'ı seçin ve Qr kodu okutun. </p>
 
-<p><b>Dikkat !!! eğer oturumu açamazsanız, bilgisayarı komut isteminde ya da güvenli modda açıp <b>system32</b> içindeki <b>QrCredential.dll</b> dosyasını silin veya  <b>QrCredential\Unregister.reg</b> dosyasını çaşıştırın </b> <p/>
+<p><b>Dikkat !!! eğer oturumu açamazsanız, bilgisayarı komut isteminde ya da güvenli modda açıp <b>system32</b> içindeki <b>QrCredential.dll</b> dosyasını silin veya  <b>QrCredential\Unregister.reg</b> dosyasını çalıştırın </b> <p/>
 
 
 
